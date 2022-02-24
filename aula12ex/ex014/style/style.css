@@ -1,0 +1,44 @@
+*
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body
+{
+    background-color: rgb(122, 215, 252);
+    height: 96.7vh;
+}
+
+header
+{
+    color: white;
+    text-align: center;
+}
+
+section
+{
+    padding: 15px;
+    width: 600px;
+    margin: auto;
+}
+
+#msg
+{
+    margin: 20px 0 50px 0;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: 100;
+}
+
+#foto img
+{
+    width: 600px;
+}
+
+footer
+{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
